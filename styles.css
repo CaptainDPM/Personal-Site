@@ -14,12 +14,14 @@ body {
 .Middle {
   background-color: #22333B;
   font-family: sans-serif;
+  padding-bottom: 25px;
 }
 
 .Bottom {
-  background-color: #22333B;
+  background-color: #312F2F;
   font-family: sans-serif;
-  padding-top: 20px;
+  padding-top: 15px;
+  height:
 }
 
 h1 {
@@ -40,6 +42,10 @@ h2 {
 h3 {
   color: #EAE0D5;
   margin-top: 50px;
+  font-family: "Brush Script MT", cursive;
+}
+
+.copyright {
   font-family: "Brush Script MT", cursive;
 }
 
